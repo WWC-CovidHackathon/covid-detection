@@ -29,24 +29,24 @@ Lin
 
 ### Main files description
 
-* Folder DataPreparation
- * Random Selection from ZhangLabData.ipynb
-   Function: From thousands of ‘Normal’ and ‘Bacterial Pneumonia’ images, this code randomly selects 490 for each class for our project.
- * Dataset_Creation_Final.ipynb
-   Function: It splits images into training, test and validation sets.
-
-* Folder Modeling
- * SageMaker_Model.ipynb
-   Function: Generates the model in AWS SageMaker
- * densenet.hdf5
-   Function: Pre-trained files, obtained from the course [['AI for Medical Diagnosis', in Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis)]
-
-* Folder Deployment
- * model_architecture.json and model_weights.h5
-   Function: our trained model files
- * model_prediction.py
-   Function: generates prediction for images insert by users
- * app.py
-   Function: allows users to upload images and to obtain predictions
- * AntibioticResistance.png
-   Function: antibiotic resistance awareness image to be displayed in the app
+* Folder DataPreparation <br>
+ * Random Selection from ZhangLabData.ipynb <br>
+   Function: From thousands of ‘Normal’ and ‘Bacterial Pneumonia’ images, this code randomly selects 490 for each class for our project. <br>
+ * Dataset_Creation_Final.ipynb <br>
+   Function: It splits images into training, test and validation sets. <br>
+<br>
+* Folder Modeling <br>
+ * SageMaker_Model.ipynb <br>
+   Function: Generates the model in AWS SageMaker <br>
+ * densenet.hdf5 <br>
+   Function: Pre-trained files, obtained from the course [['AI for Medical Diagnosis', in Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis)] <br>
+<br>
+* Folder Deployment <br>
+	* model_architecture.json and model_weights.h5 <br>
+	Function: our trained model files <br>
+	* model_prediction.py <br>
+	Function: generates prediction for images insert by users <br>
+	* app.py <br>
+   	Function: allows users to upload images and to obtain predictions <br>
+	* AntibioticResistance.png <br>
+   	Function: antibiotic resistance awareness image to be displayed in the app <br>
