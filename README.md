@@ -5,9 +5,16 @@ To run the application clone the repository and run the following command
 ## Model:
 - DenseNet121
 
-## Webpage API
+## Modeling and Deployment Tools
+### Modeling
+-AWS
+-AWS Sagemaker
+-AWS S3
 
-- Streamlit
+### WebAPI and Deployment Tools
+-Streamlit
+-Heroku 
+
 
 ### **streamlit run app.py**<br>
 The application can be found **<a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a>**.
