@@ -1,6 +1,7 @@
 # covid-detection
 **WomenWhoCode Hackathon Covid Detection and Antibiotic Resistance Prevention application.**<br>
 To run the application clone the repository and run the following command
+### **streamlit run app.py**<br>
 
 ## Dataset
 [[IEEE8023 GitHub Account](https://github.com/ieee8023/covid-chestxray-dataset)]
@@ -20,7 +21,6 @@ To run the application clone the repository and run the following command
 - Heroku 
 
 
-### **streamlit run app.py**<br>
 The application can be found **<a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a>**.
 
 <img src="app.pg1.png" width="400" height="200"> 
