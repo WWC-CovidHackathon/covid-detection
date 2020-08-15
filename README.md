@@ -4,5 +4,5 @@ To run the application clone the repository and run the following command
 ### **streamlit run app.py**<br>
 The application can be found **<a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a>**.
 
-<img src="App.pg1.png" width="400" height="200"> 
-<img src="App.pg2.png" width="400" height="200"> 
+<img src="app.pg1.png" width="400" height="200"> 
+<img src="app.pg2.png" width="400" height="200"> 
