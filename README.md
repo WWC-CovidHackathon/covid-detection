@@ -1,6 +1,14 @@
 # covid-detection
 **WomenWhoCode Hackathon Covid Detection and Antibiotic Resistance Prevention application.**<br>
 To run the application clone the repository and run the following command
+
+## Model:
+- DenseNet121
+
+## Webpage API
+
+- Streanlit
+
 ### **streamlit run app.py**<br>
 The application can be found **<a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a>**.
 
