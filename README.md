@@ -22,7 +22,7 @@ To run the application clone the repository and run the following command
 
 ### Project Demo
 The project demonstrates the Covid Detection and Antibiotic Resistance Prevention application built into an interactive Streamlit app.
-<p align="center"><img src="appdemo.gif" width="450" height="250"></p>
+<p align="center"><img src="appdemo.gif" width="750" height="450"></p>
 
 
-The application can be found **<a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a>**.
+<br>The application can be found **<a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a>**.
