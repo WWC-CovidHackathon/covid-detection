@@ -23,13 +23,12 @@ To run the application clone the repository and run the following command
 ### Project Demo
 The project demonstrates the Covid Detection and Antibiotic Resistance Prevention application built into an interactive Streamlit app.
 <p align="center"><img src="appdemo.gif" width="750" height="450"></p>
-Lin
 
 <br>The application can be found **<a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a>**.
 
 ### Main files description
 
-* requirements.txt
+* requirements.txt <br>
 Function: It contains all the package versions used for this project.
 
 #### Folder DataPreparation 
