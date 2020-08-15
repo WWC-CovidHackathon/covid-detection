@@ -21,7 +21,8 @@ To run the application clone the repository and run the following command
 - Heroku 
 
 
-The application can be found **<a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a>**.
+The project demonstrates the Covid Detection and Antibiotic Resistance Prevention application built into an interactive Streamlit app.<br>
+Application Demo<br>
+<img src="appdemo.gif" width="500" height="300"> 
 
-<img src="app.pg1.png" width="400" height="200"> 
-<img src="app.pg2.png" width="400" height="200"> 
+The application can be found **<a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a>**.
