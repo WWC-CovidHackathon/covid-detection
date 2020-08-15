@@ -2,6 +2,10 @@
 **WomenWhoCode Hackathon Covid Detection and Antibiotic Resistance Prevention application.**<br>
 To run the application clone the repository and run the following command
 
+## Dataset
+[[IEEE8023 GitHub Account](https://github.com/ieee8023/covid-chestxray-dataset)]
+[[Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3)]
+
 ## Model:
 - DenseNet121
 
