@@ -30,21 +30,21 @@ Lin
 ### Main files description
 
 #### Folder DataPreparation 
-*Random Selection from ZhangLabData.ipynb<br>
+* Random Selection from ZhangLabData.ipynb<br>
 Function: From thousands of ‘Normal’ and ‘Bacterial Pneumonia’ images in [[Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3)], this code randomly selects 490 for each class for our project. <br>
-*Dataset_Creation_Final.ipynb<br>
+* Dataset_Creation_Final.ipynb<br>
 Function: It splits images into training, test and validation sets. 
 
 #### Folder Modeling 
 * SageMaker_Model.ipynb <br>
 Function: It generates the model in AWS SageMaker. <br>
-*densenet.hdf5<br>
+* densenet.hdf5<br>
 Function: These are the pre-trained files, obtained from the course ['AI for Medical Diagnosis', in Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis). <br>
 
 #### Folder Deployment 
-*model_architecture.json and model_weights.h5<br>
+* model_architecture.json and model_weights.h5<br>
 Function: These are our trained model files. <br>
-*model_prediction.py<br>
+* model_prediction.py<br>
 Function: It generates prediction with our model.<br>
-*app.py<br>
+* app.py<br>
 Function: It allows users to upload images and to obtain predictions. <br>
