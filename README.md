@@ -28,9 +28,6 @@ The project demonstrates the Covid Detection and Antibiotic Resistance Preventio
 
 ### Main files description
 
-* requirements.txt <br>
-Function: It contains all the package versions used for this project.
-
 #### Folder DataPreparation 
 * Random Selection from ZhangLabData.ipynb<br>
 Function: From thousands of ‘Normal’ and ‘Bacterial Pneumonia’ images in [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3), this code randomly selects 490 for each class for our project. <br>
@@ -50,3 +47,5 @@ Function: These are our trained model files. <br>
 Function: It generates predictions using our model.<br>
 * app.py<br>
 Function: It deploys the app. <br>
+* requirements.txt <br>
+Function: It contains all the package versions used for deployment.
