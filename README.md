@@ -7,13 +7,13 @@ To run the application clone the repository and run the following command
 
 ## Modeling and Deployment Tools
 ### Modeling
--AWS
--AWS Sagemaker
--AWS S3
+- AWS
+- AWS Sagemaker
+- AWS S3
 
 ### WebAPI and Deployment Tools
--Streamlit
--Heroku 
+- Streamlit
+- Heroku 
 
 
 ### **streamlit run app.py**<br>
