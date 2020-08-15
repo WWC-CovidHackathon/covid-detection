@@ -7,7 +7,7 @@ To run the application clone the repository and run the following command
 
 ## Webpage API
 
-- Streanlit
+- Streamlit
 
 ### **streamlit run app.py**<br>
 The application can be found **<a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a>**.
