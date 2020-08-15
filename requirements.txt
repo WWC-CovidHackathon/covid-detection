@@ -1,0 +1,7 @@
+numpy==1.18.5
+opencv-python==4.2.0.34
+Pillow==7.0.0
+streamlit==0.61.0
+setuptools==47.3.1
+tensorflow==2.0.0
+plotly==4.9.0
