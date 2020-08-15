@@ -8,7 +8,7 @@ To run the application clone the repository and run the following command
 [[Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3)]
 
 ## Model:
-* DenseNet121. The pre-trained files were obtained from the course [['AI for Medical Diagnosis', in Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis)]
+* DenseNet121. The pre-trained files were obtained from the course ['AI for Medical Diagnosis', in Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis)
 
 ## Modeling and Deployment Tools
 ### Modeling
@@ -29,9 +29,12 @@ Lin
 
 ### Main files description
 
+* requirements.txt
+Function: It contains all the package versions used for this project.
+
 #### Folder DataPreparation 
 * Random Selection from ZhangLabData.ipynb<br>
-Function: From thousands of ‘Normal’ and ‘Bacterial Pneumonia’ images in [[Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3)], this code randomly selects 490 for each class for our project. <br>
+Function: From thousands of ‘Normal’ and ‘Bacterial Pneumonia’ images in [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3), this code randomly selects 490 for each class for our project. <br>
 * Dataset_Creation_Final.ipynb<br>
 Function: It splits images into training, test and validation sets. 
 
