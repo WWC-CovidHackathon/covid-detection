@@ -7,7 +7,7 @@ To run the application clone the repository and run the following command
 [[IEEE8023 GitHub Account](https://github.com/ieee8023/covid-chestxray-dataset)]
 [[Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3)]
 
-## Model:
+## Model
 * DenseNet121. The pre-trained files were obtained from the course ['AI for Medical Diagnosis', in Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis)
 
 ## Modeling and Deployment Tools
