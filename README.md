@@ -1,7 +1,10 @@
 # covid-detection
 **WomenWhoCode Hackathon Covid Detection and Antibiotic Resistance Prevention application.**<br>
-To run the application clone the repository and run the following command
-### **streamlit run app.py**<br>
+To run the application clone the repository and follow these steps :<br><br>
+1. Create a new python virtual environment.<br>
+2. Got to the Deployment directory and open terminal.<br>
+3. Run **pip install -r requiremnts.txt** to install the required dependencies.<br>
+4. Run **streamlit run app.py** to run the application.<br>
 
 ## Dataset
 [[IEEE8023 GitHub Account](https://github.com/ieee8023/covid-chestxray-dataset)]
