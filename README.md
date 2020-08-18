@@ -32,7 +32,7 @@ The project demonstrates the Covid Detection and Antibiotic Resistance Preventio
 * Random Selection from ZhangLabData.ipynb<br>
 Function: From thousands of ‘Normal’ and ‘Bacterial Pneumonia’ images in [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3), this code randomly selects 490 for each class for our project. <br>
 * Dataset_Creation_Final.ipynb<br>
-Function: It splits all images into training, test and validation sets. 
+Function: It splits all images into training, test and validation sets using stratified random sampling in order to ensure that all sets come from a similar distribution.
 
 #### Folder Modeling 
 * SageMaker_Model.ipynb <br>
@@ -44,8 +44,8 @@ Function: These are the pre-trained files, obtained from the course ['AI for Med
 * model_architecture.json and model_weights.h5<br>
 Function: These are our trained model files. <br>
 * model_prediction.py<br>
-Function: It generates predictions using our model.<br>
+Function: It generates predictions using our model for the X-rays uploaded in the streamlit application.<br>
 * app.py<br>
-Function: It deploys the app. <br>
+Function: This is the main streamlit application that generates prediction for an uploaded X-ray image and also provide antibiotic resistance guidelines. <br>
 * requirements.txt <br>
 Function: It contains all the package versions used for deployment.
