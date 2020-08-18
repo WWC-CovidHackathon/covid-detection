@@ -29,7 +29,7 @@ def run_web_app():
         st.markdown(
             "To obtain a model prediction for a patient, upload the X-ray chest image (jpeg, png or jpg) to the "
             "left. The output will show the probabilities of Covid-19, Bacterial Pneumonia or a Normal chest.")
-        st.markdown("Meanwhile, you can learn how antiobitc resitance happens and how to prevent it in your healthcare location.")
+        st.markdown("Meanwhile, you can learn how antibiotic resistance happens and and what hospital staff and policy makers can do to prevent it.")
         st.image(home_image)
         st.markdown("**Health professionals**<br>To prevent and control the spread of antibiotic resistance, health professionals can:" 
         "<br>- Prevent infections by ensuring your hands, instruments, and environment are clean."
