@@ -41,7 +41,7 @@ Function: It splits all images into training, test and validation sets using str
 * SageMaker_Model.ipynb <br>
 Function: It generates our model in AWS SageMaker. <br>
 * densenet.hdf5<br>
-Function: These are the pre-trained files, obtained from the course ['AI for Medical Diagnosis', in Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis). <br>
+Function: These are the pre-trained weights, obtained from the course ['AI for Medical Diagnosis', in Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis). <br>
 
 #### Folder Deployment 
 * model_architecture.json and model_weights.h5<br>
